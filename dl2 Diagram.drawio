@@ -1,1 +1,142 @@
-<mxfile host="app.diagrams.net" modified="2021-12-03T07:13:05.530Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" version="15.8.9" etag="0gfeqkbqo_O2K5qwQAtl" type="github"><diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">7ZjbctowEIafhksYH8LpEggkM22SmZK218JabDWy5MoCQ56+K1uObZzSZJqUdIYrW7/W2tWu9rOh48/i3ZUiSXQjKfCO59Bdx7/seJ7reT5ejLIvlNHQLYRQMWqNKmHJHsGKjlU3jELaMNRScs2SphhIISDQDY0oJbOm2VrypteEhNASlgHhbfU7ozqyu/CGlX4NLIxKz+5gXMzEpDS2O0kjQmVWk/x5x58pKXVxF+9mwE3yyrwUzy1+M/sUmAKhX/IAvd3tbz8Ng+Fo9TnbphRurvtd1y6zJXxjd3ynwiAiStuo9b5MRZqxmBOBo2mkY46ii7epRltbN4wA56Rij1JoUloEZsAEqPt9Yqy0ArNGyElqimOeae+ljAuUhl1Nsnu7AhmDVns0sbMXNs3lObPDrCrasDxTUa1g3tiKxB6U8GnlKpd4Y9OZD7+moO5WP8xx8xxOVsCLRzteX5AY8NLxBhwdTFcK70Kd77BQWCOng58bU35MEZeq40/yNiD7aqJ6vJ/IlGkmRW15jIsdOmi7JGbLCtYNjzFhXMvcZR/MoFj2wO28mHnyRqq1Tc7y3eZbv4c0NX5uGOegbDnLgHOL2eKukLkMSCXfrdcswJQ5tuBFLPkUrn3hwI7ECYdeIGO7KicBRNjGoJqtzZl4KIRIa0OHiamft8iyrEcVyXpMFobHG8KrnTLbQbUesNWesrjgRtNVQIXfY3je10xgfEXQC0o0MZVCPcXrBk9Pl2xRVGkXY1/0jc9cTrs+BjDqJSJEH1nENCwT3C46yhCvzcZTcoNOqO2gejeZBruRW2ZWyU2NsMCUVUq74Y7j4cVt6A2afdhv96E7eqYPh69vQxzWOvE10PNb0GvBDgSdmNcHjlZ4Yh/uI4YndorygvGyBGskm0Wfa8ZA8d1h1wC+ktm8Eqa5gBMmlywwdDwo4StrksqNCuCPRxnfl0SFcHTFC9t7tPEubNdYAcfW3TZfjWdw/g045zQjihpySqVYaqJss3OqiMhtiEDsqKMc9T4IRy9OylHXeTuUNsnZguu7ofTgi8Z95pPmWZSO/iVK+2eUNgwHZ5SeDKVbgoE53/C3m36OotdfULpkCnMmjzO0fB+emqGDkzJ03PX+d4Qefo1+TIYOzwxtGI7ODD0VQye8+AZ1LqWQOU/bHF3uUw0IE2dCYyaOgtT/ICAdnRSkb4LR9/vMHJ+UkShV/4Hm5rV/kv35Lw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-03T09:40:15.990Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="MKOmTGRPRsMG1aByss-K" version="15.8.9" type="github">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="6394" dy="3966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LqXKl_slKxwwEED0QRdE-1" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;dapper labs&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LqXKl_slKxwwEED0QRdE-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LqXKl_slKxwwEED0QRdE-15" target="LqXKl_slKxwwEED0QRdE-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LqXKl_slKxwwEED0QRdE-15" value="&lt;span style=&quot;color: rgb(18 , 18 , 18) ; font-family: , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;source han sans sc&amp;#34; , &amp;#34;noto sans cjk sc&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: medium ; background-color: rgb(255 , 255 , 255)&quot;&gt;Blockchain is for you&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-110" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LqXKl_slKxwwEED0QRdE-17" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;小巧的钱包&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="310" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LqXKl_slKxwwEED0QRdE-22" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Flow&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="310" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LqXKl_slKxwwEED0QRdE-26" value="NFT交易平台如opensea" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="650.6" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LqXKl_slKxwwEED0QRdE-27" value="应用" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="420" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LqXKl_slKxwwEED0QRdE-29" value="链游/元宇宙" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="752.8" width="100" height="37.2" as="geometry" />
+        </mxCell>
+        <mxCell id="LqXKl_slKxwwEED0QRdE-30" value="社交代币" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="645" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LqXKl_slKxwwEED0QRdE-65" value="play-to-earn" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="880" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LqXKl_slKxwwEED0QRdE-67" value="商业模式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="812.8" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LqXKl_slKxwwEED0QRdE-70" value="gamefi" style="whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="490" y="885" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="LqXKl_slKxwwEED0QRdE-78" value="NFT+DeFi" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="645" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LqXKl_slKxwwEED0QRdE-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LqXKl_slKxwwEED0QRdE-82" target="LqXKl_slKxwwEED0QRdE-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LqXKl_slKxwwEED0QRdE-82" value="流量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LqXKl_slKxwwEED0QRdE-87" value="更适合NFT" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LqXKl_slKxwwEED0QRdE-89" value="&lt;div class=&quot;okr-block-clipboard&quot;&gt;&lt;/div&gt;&lt;div&gt;重量级合作伙伴&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-670" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LqXKl_slKxwwEED0QRdE-91" value="高性能" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LqXKl_slKxwwEED0QRdE-93" value="开发和使用门槛更低" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LqXKl_slKxwwEED0QRdE-95" value="面向资源编程，智能合约可升级" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LqXKl_slKxwwEED0QRdE-106" value="为什么要做链" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="297.5" width="140" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="LqXKl_slKxwwEED0QRdE-107" value="链上的核心竞争力是什么" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="250" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LqXKl_slKxwwEED0QRdE-108" value="做成一个怎样的链" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="370" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LqXKl_slKxwwEED0QRdE-109" value="&lt;div class=&quot;okr-block-clipboard&quot;&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;未来的区块链一定会成为一种看不见的基础设施&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="235" width="80" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="LqXKl_slKxwwEED0QRdE-110" value="战略" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LqXKl_slKxwwEED0QRdE-111" value="基础设施" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="207.5" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LqXKl_slKxwwEED0QRdE-113" value="游戏的意义：&lt;span&gt;只有好玩的东西才能推动区块链普及&lt;/span&gt;&lt;div class=&quot;okr-block-clipboard&quot;&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="950" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LqXKl_slKxwwEED0QRdE-115" value="&lt;span style=&quot;color: rgb(36 , 40 , 65) ; font-family: &amp;#34;sf pro sc&amp;#34; , &amp;#34;sf pro text&amp;#34; , , , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;cantarell&amp;#34; , &amp;#34;noto sans&amp;#34; , sans-serif , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;helvetica neue&amp;#34; ; font-size: 16px&quot;&gt;通过为非加密原生用户创造无障碍体验，让他们在不知情的情况下使用 NFT 技术收藏数据，从而成为大众市场采用的门户。&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-870" y="390" width="170" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="LqXKl_slKxwwEED0QRdE-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LqXKl_slKxwwEED0QRdE-116" target="LqXKl_slKxwwEED0QRdE-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LqXKl_slKxwwEED0QRdE-116" value="对NFT:" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="-110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LqXKl_slKxwwEED0QRdE-120" value="&lt;span style=&quot;color: rgb(36 , 40 , 65) ; font-family: &amp;#34;sf pro sc&amp;#34; , &amp;#34;sf pro text&amp;#34; , , , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;cantarell&amp;#34; , &amp;#34;noto sans&amp;#34; , sans-serif , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;helvetica neue&amp;#34; ; font-size: 16px&quot;&gt;更多发展：for&lt;/span&gt;&lt;span style=&quot;color: rgb(36 , 40 , 65) ; font-size: 16px&quot;&gt;Topshot:&lt;/span&gt;&lt;span style=&quot;color: rgb(36 , 40 , 65) ; font-family: &amp;#34;sf pro sc&amp;#34; , &amp;#34;sf pro text&amp;#34; , , , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;cantarell&amp;#34; , &amp;#34;noto sans&amp;#34; , sans-serif , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;helvetica neue&amp;#34; ; font-size: 16px&quot;&gt;&lt;br&gt;链上商品的可组合性与跨场景集成&lt;/span&gt;&lt;span style=&quot;color: rgb(36 , 40 , 65) ; font-size: 16px&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-325" y="752.8000000000001" width="150" height="84.4" as="geometry" />
+        </mxCell>
+        <mxCell id="LqXKl_slKxwwEED0QRdE-122" value="&lt;span style=&quot;color: rgb(38 , 38 , 38) ; font-family: , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei ui&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;source han sans cn&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;NFT 需要 DeFi，从而让更多的人去了解它&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="780" width="150" height="79.4" as="geometry" />
+        </mxCell>
+        <mxCell id="LqXKl_slKxwwEED0QRdE-123" value="&lt;span style=&quot;color: rgb(38 , 38 , 38) ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;DeFi 也应该接受 NFT，从而增加它的规模和使用场景。&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="779.9999999999999" width="150" height="84.7" as="geometry" />
+        </mxCell>
+        <mxCell id="LqXKl_slKxwwEED0QRdE-124" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(38, 38, 38); font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;NFT 其实是最有潜力实现大规模应用的，可以实现上亿的用户&lt;/span&gt;&#xa;&#xa;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="-130" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LqXKl_slKxwwEED0QRdE-126" value="虽然flow不只做NFT,但fliw的NFT做的最好" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="147.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LqXKl_slKxwwEED0QRdE-130" value="NFT项目开发战略" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LqXKl_slKxwwEED0QRdE-131" value="独立研发项目如爆款NBA Top Shot UFC" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="630.9" width="80" height="79.4" as="geometry" />
+        </mxCell>
+        <mxCell id="LqXKl_slKxwwEED0QRdE-133" value="合作项目" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="630.9" width="60" height="79.4" as="geometry" />
+        </mxCell>
+        <mxCell id="LqXKl_slKxwwEED0QRdE-134" value="带给更多主流消费者" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="752.8" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LqXKl_slKxwwEED0QRdE-135" value="孵化独立开发者的项目" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="625.9" width="80" height="89.4" as="geometry" />
+        </mxCell>
+        <mxCell id="LqXKl_slKxwwEED0QRdE-138" value="聚集更多的创造者" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="752.8" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LqXKl_slKxwwEED0QRdE-139" value="应用分类" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LqXKl_slKxwwEED0QRdE-140" value="项目" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="650.6" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LqXKl_slKxwwEED0QRdE-141" value="艺术收藏品" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
