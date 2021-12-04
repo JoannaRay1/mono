@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-04T01:39:57.668Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="9EYBSVY4SPyfWvW_DnjU" version="15.8.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-04T01:49:45.402Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="a8QIS6DyCoYLiD7RnVUQ" version="15.8.9" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2467" dy="1648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,6 +34,11 @@
         <mxCell id="LqXKl_slKxwwEED0QRdE-22" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Flow&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="310" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0KAGWNW1on5UnUVv7pbQ-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LqXKl_slKxwwEED0QRdE-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LqXKl_slKxwwEED0QRdE-26" value="NFT交易平台如opensea" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="650.6" width="100" height="40" as="geometry" />
         </mxCell>
@@ -54,9 +59,6 @@
         </mxCell>
         <mxCell id="LqXKl_slKxwwEED0QRdE-29" value="链游/元宇宙" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="752.8" width="100" height="37.2" as="geometry" />
-        </mxCell>
-        <mxCell id="LqXKl_slKxwwEED0QRdE-30" value="社交代币" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="645" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LqXKl_slKxwwEED0QRdE-65" value="play-to-earn" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="395" y="900" width="90" height="30" as="geometry" />
@@ -178,9 +180,6 @@
         <mxCell id="LqXKl_slKxwwEED0QRdE-124" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(38, 38, 38); font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;NFT 其实是最有潜力实现大规模应用的，可以实现上亿的用户&lt;/span&gt;&#xa;&#xa;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-360" y="-130" width="220" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="LqXKl_slKxwwEED0QRdE-126" value="虽然flow不只做NFT,但fliw的NFT做的最好" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="147.5" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="0KAGWNW1on5UnUVv7pbQ-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LqXKl_slKxwwEED0QRdE-130" target="LqXKl_slKxwwEED0QRdE-131">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -202,7 +201,7 @@
         <mxCell id="0KAGWNW1on5UnUVv7pbQ-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LqXKl_slKxwwEED0QRdE-133" target="LqXKl_slKxwwEED0QRdE-134">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LqXKl_slKxwwEED0QRdE-133" value="合作项目" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="LqXKl_slKxwwEED0QRdE-133" value="合作项目如和unbisoft合作" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-110" y="630.9" width="60" height="79.4" as="geometry" />
         </mxCell>
         <mxCell id="LqXKl_slKxwwEED0QRdE-134" value="带给更多主流消费者" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -223,9 +222,6 @@
         <mxCell id="0KAGWNW1on5UnUVv7pbQ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LqXKl_slKxwwEED0QRdE-139" target="LqXKl_slKxwwEED0QRdE-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0KAGWNW1on5UnUVv7pbQ-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LqXKl_slKxwwEED0QRdE-139" target="LqXKl_slKxwwEED0QRdE-30">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="0KAGWNW1on5UnUVv7pbQ-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LqXKl_slKxwwEED0QRdE-139" target="LqXKl_slKxwwEED0QRdE-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -241,7 +237,7 @@
         <mxCell id="LqXKl_slKxwwEED0QRdE-140" value="项目" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="655" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LqXKl_slKxwwEED0QRdE-141" value="艺术收藏品" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="LqXKl_slKxwwEED0QRdE-141" value="收藏品" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="752.8" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0KAGWNW1on5UnUVv7pbQ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0KAGWNW1on5UnUVv7pbQ-5" target="0KAGWNW1on5UnUVv7pbQ-8">
@@ -267,6 +263,9 @@
         </mxCell>
         <mxCell id="0KAGWNW1on5UnUVv7pbQ-14" value="目前接受多种类钱包，常用的是Blotco" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0KAGWNW1on5UnUVv7pbQ-60" value="多样性" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="702.8" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
